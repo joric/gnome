@@ -9,7 +9,7 @@ Unity 2017 project
 
 ## Models
 
-All models were recreated from scratch, screenshots were reused as textures.
+All models were recreated from scratch, images were sometimes reused as textures.
 
 * [gnome.blend](gnome/Assets/models/gnome) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
 * [gnomeland.blend](gnome/Assets/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
