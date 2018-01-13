@@ -15,6 +15,7 @@ All models were recreated from scratch, images were sometimes reused as textures
 * [gnomeland.blend](gnome/Assets/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
 * [gnomedog.blend](gnome/Assets/models/gnomedog) - based on the orignal image by [Polter](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)
 * [gnomecar.blend](gnome/Assets/models/gnomecar) - based on the orignal image by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
+* [swiborg.blend](gnome/Assets/models/swiborg) - based on the original image by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
 
 ## Pictures
 
