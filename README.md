@@ -4,8 +4,6 @@ G.N.O.M.E.: General Networked Organism Manufactured for Exploration
 
 Unity 2017 project
 
-## Demo
-
 * WebGL demo: https://joric.github.io/gnome
 
 * You can also download an executable file from the [releases section](https://github.com/joric/ts100tris/releases).
