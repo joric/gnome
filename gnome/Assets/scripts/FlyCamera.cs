@@ -5,10 +5,10 @@ public class FlyCamera : MonoBehaviour {
 	
 	public float mainSpeed = 100.0f; //regular speed
 	public float shiftAdd = 250.0f; //multiplied by how long shift is held.  Basically running
-	public float maxShift = 1000.0f; //Maximum speed when holdin gshift
+	public float maxShift = 1000.0f; //Maximum speed when holding gshift
 	public float camSens = 0.10f; //How sensitive it with mouse
 	public bool rotateOnlyIfMousedown = false;
-	public bool movementStaysFlat = true;
+	public bool movementStaysFlat = false;
 	public int mouseButton = 0;
 
 	private Vector3 lastMouse = new Vector3(255, 255, 255); //kind of in the middle of the screen, rather than at the top (play)
@@ -42,7 +42,6 @@ public class FlyCamera : MonoBehaviour {
 		}
 
 		//Keyboard commands
-		float f = 0.0f;
 		Vector3 p = GetBaseInput();
 
 		if (Input.GetKey (KeyCode.LeftShift)) {
