@@ -11,11 +11,11 @@ Unity 2017 project
 
 All models here were recreated by me using reference images and placed in the public domain.
 
-* [gnome.blend](Assets/models/gnome) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
-* [gnomeland.blend](Assets/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
-* [gnomedog.blend](Assets/models/gnomedog) - based on the orignal image by [Polter](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)
-* [gnomecar.blend](Assets/models/gnomecar) - based on the orignal image by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
-* [swiborg.blend](Assets/models/swiborg) - based on the original image by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
+* [gnome.blend](unity/Assets/models/gnome) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
+* [gnomeland.blend](unity/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
+* [gnomedog.blend](unity/models/gnomedog) - based on the orignal image by [Polter](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)
+* [gnomecar.blend](unity/models/gnomecar) - based on the orignal image by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
+* [swiborg.blend](unity/models/swiborg) - based on the original image by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
 
 Reference images belong to their respectable owners.
 
