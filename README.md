@@ -11,11 +11,11 @@ Unity 2017 project
 
 All models here (except gnome) were recreated by me from reference images (since 2008) and placed in the public domain.
 
-* [gnome.blend](unity/Assets/models/gnome) - based on the orignal model by [Asci](http://www.gamedev.ru/art/forum/?id=5592&page=34#m502) and texture mapping by [viv](http://www.gamedev.ru/art/forum/?id=5592&page=34#m507) and [Dam0b](http://www.gamedev.ru/art/forum/?id=5592&page=35#m514) (see [gnome_max.zip](unity/Assets/models/gnome/gnome_max.zip))
-* [gnomeland.blend](unity/Assets/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
-* [gnomedog.blend](unity/Assets/models/gnomedog) - based on the orignal image by [Polter](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)
-* [gnomecar.blend](unity/Assets/models/gnomecar) - based on the orignal image by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
-* [swiborg.blend](unity/Assets/models/swiborg) - based on the original image by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
+* [gnome](unity/Assets/models/gnome) - based on the [orignal model](unity/Assets/models/gnome/gnome_max.zip) by [Asci](http://www.gamedev.ru/art/forum/?id=5592&page=34#m502) (texture mapping by [viv](http://www.gamedev.ru/art/forum/?id=5592&page=34#m507) and [Dam0b](http://www.gamedev.ru/art/forum/?id=5592&page=35#m514))
+* [gnomeland](unity/Assets/models/gnomeland) - based on the [orignal image](unity/Assets/models/gnomeland/textures/gnomeland.3_4.jpg) by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
+* [gnomedog](unity/Assets/models/gnomedog) - based on the [orignal image](unity/Assets/models/gnomedog/textures/gnomedog.jpg) by [Polter](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)
+* [gnomecar](unity/Assets/models/gnomecar) - based on the [orignal image](unity/Assets/models/gnomecar/textures/gnomecar_orig.jpg) by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
+* [swiborg](unity/Assets/models/swiborg) - based on the [original image](unity/Assets/models/swiborg/textures/swiborg.jpg) by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
 
 I'm only responsible for the geometry, all reference images (sometimes reused as textures) belong to their owners.
 
