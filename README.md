@@ -17,7 +17,7 @@ All models here were recreated by me from reference images (since early 2008) an
 * [gnomecar.blend](unity/Assets/models/gnomecar) - based on the orignal image by [Dart_Vader](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16)
 * [swiborg.blend](unity/Assets/models/swiborg) - based on the original image by [Zudl](http://www.gamedev.ru/flame/forum/?id=66447)
 
-All reference images belong to their respectable owners.
+I'm only responsible for the geometry, all reference images and most of the textures belong to their respectable owners.
 
 ## Pictures
 
