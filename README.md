@@ -19,6 +19,14 @@ All models here were recreated by me from reference images (since early 2008) an
 
 I'm only responsible for the geometry, all reference images (sometimes reused as textures) belong to their owners.
 
+## Textures
+
+The following textures, apparently used by Asci in the gnomeland scene were taken from Bodypaint 3D:
+
+* [GLBRICKS.JPG](unity/Assets/models/gnomeland/textures/GLBRICKS.JPG) (originally [S019_c.jpg](unity/Assets/models/gnomeland/textures/S019_c.jpg), 205x205 px)
+* [GLGROUND.JPG](unity/Assets/models/gnomeland/textures/GLGROUND.JPG) (originally [Dirtg02c.jpg](unity/Assets/models/gnomeland/textures/Dirtg02c.jpg), 256x205 px)
+
+
 ## Pictures
 
 ### Screenshot
