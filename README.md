@@ -9,7 +9,7 @@ Unity 2017 project
 
 ## Models
 
-All models here were recreated by me from scratch using reference images and placed in the public domain.
+All models here were recreated by me from reference images (since early 2008) and now placed in the public domain.
 
 * [gnome.blend](unity/Assets/models/gnome) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
 * [gnomeland.blend](unity/Assets/models/gnomeland) - based on the orignal image by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
