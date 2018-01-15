@@ -9,7 +9,7 @@ Unity 2017 project
 
 ## Models
 
-All models here (except gnome) were recreated by me from reference images (since 2008) and placed in the public domain.
+All models here (except gnome) made by me from reference images (since 2008) and placed in the public domain.
 
 * [gnome](unity/Assets/models/gnome) - based on the [orignal model](unity/Assets/models/gnome/gnome_max.zip) by [Asci](http://www.gamedev.ru/art/forum/?id=5592&page=34#m502) (texture mapping by [viv](http://www.gamedev.ru/art/forum/?id=5592&page=34#m507) and [Dam0b](http://www.gamedev.ru/art/forum/?id=5592&page=35#m514))
 * [gnomeland](unity/Assets/models/gnomeland) - based on the [orignal image](unity/Assets/models/gnomeland/textures/gnomeland.3_4.jpg) by [Asci](http://www.gamedev.ru/art/forum/?id=5592)
