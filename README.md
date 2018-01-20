@@ -34,7 +34,7 @@ The following textures, apparently used by Asci in the gnomeland scene were take
 
 ### Screenshot
 
-![screenshot](https://joric.github.io/gnome/screenshot.jpg)
+![screenshot](screenshot.jpg)
 
 ## References
 
