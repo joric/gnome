@@ -36,4 +36,3 @@ The following textures, apparently used by Asci in the gnomeland scene were take
 * http://www.gamedev.ru/art/forum/?id=5592
 * https://github.com/joric/io_scene_b3d
 
-

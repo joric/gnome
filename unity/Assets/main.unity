@@ -1561,7 +1561,7 @@ MonoBehaviour:
     m_Bits: 1
   groundMinDistance: 0.2
   groundMaxDistance: 0.5
-  locomotionType: 0
+  locomotionType: 2
   lockMovement: 0
   freeRotationSpeed: 10
   strafeRotationSpeed: 10
