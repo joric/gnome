@@ -16,10 +16,15 @@ public class Teleport : MonoBehaviour {
 	}
 
 	void OnTriggerEnter(){
-		switch (SceneManager.GetActiveScene().name) {
-			case "1": SceneManager.LoadScene("2"); break;
-			case "2": SceneManager.LoadScene("3"); break;
-			default: SceneManager.LoadScene("1"); break;
+
+		string sceneName = SceneManager.GetActiveScene().name;
+
+		switch (sceneName) {
+			case "1": sceneName = "2"; break;
+			case "2": sceneName = "3"; break;
+			default: sceneName = "1"; break;
 		}
+
+		Initiate.Fade(sceneName,Color.white,2.5f);
 	}	
 }

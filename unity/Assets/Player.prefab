@@ -248,6 +248,7 @@ GameObject:
   - component: {fileID: 81604048673917552}
   - component: {fileID: 114201323083473760}
   - component: {fileID: 114852608625829768}
+  - component: {fileID: 114702176753418272}
   m_Layer: 0
   m_Name: vThirdPersonCamera
   m_TagString: MainCamera
@@ -1195,6 +1196,23 @@ MonoBehaviour:
   changeCameraState: 0
   smoothCameraState: 0
   keepDirection: 0
+--- !u!114 &114702176753418272
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1397318962950324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc74b55a9de3e0e4b8490869beb9118e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  start: 0
+  fadeDamp: 0
+  fadeScene: 
+  alpha: 0
+  fadeColor: {r: 0, g: 0, b: 0, a: 0}
+  isFadeIn: 0
 --- !u!114 &114771821212772050
 MonoBehaviour:
   m_ObjectHideFlags: 1
