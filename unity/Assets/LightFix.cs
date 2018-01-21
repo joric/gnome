@@ -2,21 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Teleport2 : MonoBehaviour {
+public class LightFix : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		DynamicGI.UpdateEnvironment();		
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
 	}
-
-	void OnTriggerEnter(){
-		GameObject.FindGameObjectWithTag("Player").transform.position =
-			GameObject.Find("Level4Spawn").transform.position;
-	}
-
 }
