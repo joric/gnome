@@ -249,6 +249,7 @@ GameObject:
   - component: {fileID: 114201323083473760}
   - component: {fileID: 114852608625829768}
   - component: {fileID: 114702176753418272}
+  - component: {fileID: 114015952824209704}
   m_Layer: 0
   m_Name: vThirdPersonCamera
   m_TagString: MainCamera
@@ -568,14 +569,14 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1226265746320026}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 2.9786868, y: -3.2771606, z: 9.096039}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4492207699339760}
   - {fileID: 4766696667109684}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4135260415704070
 Transform:
   m_ObjectHideFlags: 1
@@ -1085,6 +1086,17 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114015952824209704
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1397318962950324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7697a936dd53ef84cbd970da3e541d8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114201323083473760
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1142,9 +1154,9 @@ MonoBehaviour:
   jumpForward: 4
   jumpHeight: 8
   useRootMotion: 0
-  freeWalkSpeed: 2.5
-  freeRunningSpeed: 3
-  freeSprintSpeed: 4
+  freeWalkSpeed: 2
+  freeRunningSpeed: 8
+  freeSprintSpeed: 10
   strafeWalkSpeed: 2.5
   strafeRunningSpeed: 3
   strafeSprintSpeed: 4
@@ -1245,10 +1257,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  m_Radius: 0.57
-  m_Height: 3.79
+  m_Radius: 0.76570505
+  m_Height: 4.4787908
   m_Direction: 1
-  m_Center: {x: 0, y: 1.89, z: 0}
+  m_Center: {x: 0.10951598, y: 2.2343957, z: 0.021454493}
 --- !u!137 &137555221730896564
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 1
