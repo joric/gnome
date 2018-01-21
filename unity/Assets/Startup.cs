@@ -25,9 +25,9 @@ public class Startup : MonoBehaviour {
 
 		if (enabled) {
 			int qualityLevel = QualitySettings.GetQualityLevel();		
-			behaviour.profile.vignette.enabled = qualityLevel >= 2;
-			behaviour.profile.depthOfField.enabled = qualityLevel >= 3;
-			behaviour.profile.chromaticAberration.enabled = qualityLevel >= 4;
+			behaviour.profile.vignette.enabled = qualityLevel >= 5;
+			behaviour.profile.depthOfField.enabled = qualityLevel >= 5;
+			behaviour.profile.chromaticAberration.enabled = qualityLevel >= 5;
 			behaviour.profile.grain.enabled = qualityLevel >= 5;
 		}
 	}
