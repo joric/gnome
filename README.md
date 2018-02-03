@@ -2,9 +2,9 @@
 
 G.N.O.M.E.: General Networked Organism Manufactured for Exploration
 
-WebGL demo: https://joric.github.io/gnome
-
 [![Gnome](http://img.youtube.com/vi/t6sZvxw3B5g/0.jpg)](https://www.youtube.com/watch?v=t6sZvxw3B5g)
+
+WebGL demo: https://joric.github.io/gnome
 
 You can also download an executable file from the [releases section](https://github.com/joric/gnome/releases).
 
