@@ -30,6 +30,10 @@ The following textures, apparently used by Asci in the gnomeland scene were take
 * GLBRICKS.JPG (originally S019_c.jpg, 205x205 px)
 * GLGROUND.JPG (originally Dirtg02c.jpg, 256x205 px)
 
+## TODO
+
+Gnome VR
+
 ## References
 
 * http://www.gamedev.ru/art/forum/?id=5592
