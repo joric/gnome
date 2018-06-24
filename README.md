@@ -2,6 +2,8 @@
 
 G.N.O.M.E.: General Networked Organism Manufactured for Exploration
 
+## Video
+
 [![Gnome](http://img.youtube.com/vi/t6sZvxw3B5g/0.jpg)](https://www.youtube.com/watch?v=t6sZvxw3B5g)
 
 WebGL demo: https://joric.github.io/gnome
