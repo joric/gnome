@@ -21,7 +21,7 @@ Example levels taken from the [GnomE](http://www.gamedev.ru/projects/forum/?id=9
 Some models here made by me from reference images (since 2008) and placed in the public domain.
 
 * __gnomeland__ - based on the [original image](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomeland/textures/gnomeland.3_4.jpg) by Asci ([source](http://www.gamedev.ru/art/forum/?id=5592))
-* __gnomedog__ - based on the [original](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomedog/textures/gnomedog.jpg) [images](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomedog/textures/gnomedog_tb.png) by Polter ([source]((http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335)))
+* __gnomedog__ - based on the [original](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomedog/textures/gnomedog.jpg) [images](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomedog/textures/gnomedog_tb.png) by Polter ([source](http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335))
 * __gnomecar__ - based on the [original image](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/gnomecar/textures/gnomecar_orig.jpg) by Dart_Vader ([source](http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16))
 * __swiborg__ - based on the [original image](https://github.com/joric/gnome/raw/master/Gnome-Unity/Assets/models/swiborg/textures/swiborg.jpg) by Zudl ([source](http://www.gamedev.ru/flame/forum/?id=66447))
 
