@@ -26,7 +26,7 @@ Model | Sources | Reference Images | Textures
 [gnomeland.blend][gnomeland_blend] by [Joric][joric] | Based on the reference image by [Asci][asci] ([source][gnome_thread]), original textures from BodyPaint 3D ([S019_c.jpg][gnomeland_bp1], [Dirtg02c.jpg][gnomeland_bp2]) | ![][gnomeland_i1] | ![][gnomeland_t1] ![][gnomeland_t2] ![][gnomeland_t3] ![][gnomeland_t4]
 [gnomecar.blend][gnomecar_blend] by [Joric][joric]| Based on the reference image by [Dart_Vader][dart_vader] ([source][gnomecar_ref]) | ![][gnomecar_i1] | ![][gnomecar_t1] ![][gnomecar_t2]
 [gnomedog.blend][gnomedog_blend] by [Joric][joric]| Based on the reference image by [Polter][polter] ([source][gnomedog_ref]) | ![][gnomedog_i1] ![][gnomedog_i2] | ![][gnomedog_i1]
-[swiborg.blend][swiborg_blend] by [Joric][joric] | Based on the reference image by [Zudl][zudl] ([source][swiborg_ref]) | ![][swiborg_i1] | ![][swiborg_t1]
+[swiborg.blend][swiborg_blend] by [Joric][joric] | Based on the reference image and original texture by [Zudl][zudl] ([source][swiborg_ref]) | ![][swiborg_i1] | ![][swiborg_t1]
 
 
 ## TODO
