@@ -35,7 +35,7 @@ Gnome VR
 
 ## References
 
-* [Gamedev.ru - "Зацените Гнома" by Asci](http://www.gamedev.ru/art/forum/?id=5592)
+* http://www.gamedev.ru/art/forum/?id=5592
 * https://github.com/joric/io_scene_b3d
 
 [asci]: https://gamedev.ru/users/?id=11394
