@@ -51,42 +51,42 @@ Gnome VR
 [gnome_thread]: http://www.gamedev.ru/art/forum/?id=5592
 [gnome_max]: https://joric.github.io/gnome/archive/gnome_max.zip
 [gnome_rig]: https://joric.github.io/gnome/archive/gnom.zip
-[gnome_blend]: Gnome-Unity/Assets/models/gnome/gnome.blend
+[gnome_blend]: src/Assets/models/gnome/gnome.blend
 [gnome_asci_model_ref]: http://www.gamedev.ru/art/forum/?id=5592&page=34#m502
 [gnome_asci_canvas_ref]: https://gamedev.ru/art/forum/?id=5592&page=3#m31
 [gnome_asci_lost_ref]: https://gamedev.ru/art/forum/?id=5592&page=35#m512
 [gnome_viv_ref]: http://www.gamedev.ru/art/forum/?id=5592&page=34#m507
 [gnome_dam0b_ref]: http://www.gamedev.ru/art/forum/?id=5592&page=35#m514
-[gnome_i1]: Gnome-Unity/Assets/models/gnome/textures/gnomeall.jpg
-[gnome_i2]: Gnome-Unity/Assets/models/gnome/textures/gnomeall2.jpg
-[gnome_i3]: Gnome-Unity/Assets/models/gnome/textures/gnomeallgird.jpg
-[gnome_t1]: Gnome-Unity/Assets/models/gnome/gnomeall.JPG
-[gnome_t2]: Gnome-Unity/Assets/models/gnome/textures/yad.jpg
+[gnome_i1]: src/Assets/models/gnome/textures/gnomeall.jpg
+[gnome_i2]: src/Assets/models/gnome/textures/gnomeall2.jpg
+[gnome_i3]: src/Assets/models/gnome/textures/gnomeallgird.jpg
+[gnome_t1]: src/Assets/models/gnome/gnomeall.JPG
+[gnome_t2]: src/Assets/models/gnome/textures/yad.jpg
 
-[gnomeland_blend]: Gnome-Unity/Assets/models/gnomeland/gnomeland.blend
+[gnomeland_blend]: src/Assets/models/gnomeland/gnomeland.blend
 [gnomeland_asci_hex_ref]: https://gamedev.ru/art/forum/?id=5592&page=401#m6000
-[gnomeland_i1]: Gnome-Unity/Assets/models/gnomeland/textures/gnomeland.3_4.jpg
-[gnomeland_t1]: Gnome-Unity/Assets/models/gnomeland/textures/GLBRICKS.JPG
-[gnomeland_t2]: Gnome-Unity/Assets/models/gnomeland/textures/GLGROUND.JPG
-[gnomeland_t3]: Gnome-Unity/Assets/models/gnomeland/textures/GLWIND01.JPG
-[gnomeland_t4]: Gnome-Unity/Assets/models/gnomeland/textures/GLWIND02.JPG
-[gnomeland_bp1]: Gnome-Unity/Assets/models/gnomeland/textures/S019_c.jpg
-[gnomeland_bp2]: Gnome-Unity/Assets/models/gnomeland/textures/Dirtg02c.jpg
+[gnomeland_i1]: src/Assets/models/gnomeland/textures/gnomeland.3_4.jpg
+[gnomeland_t1]: src/Assets/models/gnomeland/textures/GLBRICKS.JPG
+[gnomeland_t2]: src/Assets/models/gnomeland/textures/GLGROUND.JPG
+[gnomeland_t3]: src/Assets/models/gnomeland/textures/GLWIND01.JPG
+[gnomeland_t4]: src/Assets/models/gnomeland/textures/GLWIND02.JPG
+[gnomeland_bp1]: src/Assets/models/gnomeland/textures/S019_c.jpg
+[gnomeland_bp2]: src/Assets/models/gnomeland/textures/Dirtg02c.jpg
 
-[gnomecar_blend]: Gnome-Unity/Assets/models/gnomecar/gnomecar.blend
+[gnomecar_blend]: src/Assets/models/gnomecar/gnomecar.blend
 [gnomecar_ref]: http://www.gamedev.ru/projects/forum/?id=8855&page=2#m16
-[gnomecar_i1]: Gnome-Unity/Assets/models/gnomecar/textures/gnomecar_orig.jpg
-[gnomecar_t1]: Gnome-Unity/Assets/models/gnomecar/textures/GC_BODY.JPG 
-[gnomecar_t2]: Gnome-Unity/Assets/models/gnomecar/textures/GC_WHEEL.JPG
+[gnomecar_i1]: src/Assets/models/gnomecar/textures/gnomecar_orig.jpg
+[gnomecar_t1]: src/Assets/models/gnomecar/textures/GC_BODY.JPG 
+[gnomecar_t2]: src/Assets/models/gnomecar/textures/GC_WHEEL.JPG
 
-[gnomedog_blend]: Gnome-Unity/Assets/models/gnomedog/gnomedog.blend
+[gnomedog_blend]: src/Assets/models/gnomedog/gnomedog.blend
 [gnomedog_ref]: http://www.gamedev.ru/art/forum/?id=5592&page=156#m2335
-[gnomedog_i1]: Gnome-Unity/Assets/models/gnomedog/textures/gnomedog.jpg
-[gnomedog_i2]: Gnome-Unity/Assets/models/gnomedog/textures/gnomedog_tb.png
+[gnomedog_i1]: src/Assets/models/gnomedog/textures/gnomedog.jpg
+[gnomedog_i2]: src/Assets/models/gnomedog/textures/gnomedog_tb.png
 
-[swiborg_blend]: Gnome-Unity/Assets/models/swiborg/swiborg.blend
+[swiborg_blend]: src/Assets/models/swiborg/swiborg.blend
 [swiborg_ref]: http://www.gamedev.ru/flame/forum/?id=66447
-[swiborg_i1]: Gnome-Unity/Assets/models/swiborg/textures/Sharnf8.jpg
-[swiborg_t1]: Gnome-Unity/Assets/models/swiborg/textures/swiborg.jpg
+[swiborg_i1]: src/Assets/models/swiborg/textures/Sharnf8.jpg
+[swiborg_t1]: src/Assets/models/swiborg/textures/swiborg.jpg
 
 
